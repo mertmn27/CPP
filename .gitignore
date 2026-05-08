@@ -2,7 +2,7 @@
 x64/
 Debug/
 Release/
-.exe
-.obj
-.sln
-.slnx
+*.exe
+*.obj
+*.sln
+*.slnx
