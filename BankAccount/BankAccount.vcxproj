@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8ed460b3-7c4b-4e23-be3f-e97cf059c780}</ProjectGuid>
+    <ProjectGuid>{bec22f9a-a553-4d3d-99c3-1f53d437eadf}</ProjectGuid>
     <RootNamespace>BankAccount</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

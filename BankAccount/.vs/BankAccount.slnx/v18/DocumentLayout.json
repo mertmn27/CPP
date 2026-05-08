@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\C\u002B\u002B\\BankAccount\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ED460B3-7C4B-4E23-BE3F-E97CF059C780}|BankAccount\\BankAccount.vcxproj|C:\\C\u002B\u002B\\BankAccount\\BankAccount\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED460B3-7C4B-4E23-BE3F-E97CF059C780}|BankAccount\\BankAccount.vcxproj|solutionrelative:BankAccount\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BEC22F9A-A553-4D3D-99C3-1F53D437EADF}|BankAccount.vcxproj|C:\\C\u002B\u002B\\BankAccount\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEC22F9A-A553-4D3D-99C3-1F53D437EADF}|BankAccount.vcxproj|solutionrelative:BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BankAccount.cpp",
-              "DocumentMoniker": "C:\\C\u002B\u002B\\BankAccount\\BankAccount\\BankAccount.cpp",
-              "RelativeDocumentMoniker": "BankAccount\\BankAccount.cpp",
-              "ToolTip": "C:\\C\u002B\u002B\\BankAccount\\BankAccount\\BankAccount.cpp",
-              "RelativeToolTip": "BankAccount\\BankAccount.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\BankAccount\\BankAccount.cpp",
+              "RelativeDocumentMoniker": "BankAccount.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\BankAccount\\BankAccount.cpp",
+              "RelativeToolTip": "BankAccount.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-08T22:54:15.805Z",
+              "WhenOpened": "2026-05-08T23:12:10.839Z",
               "EditorCaption": ""
             }
           ]
